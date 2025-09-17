@@ -16,7 +16,7 @@ bun dev
 
 ### CV
 
-![CV ](public/screenshots/cvss1.png)
+![CV ](public/screenshots/cvss1.PNG)
 
 ### CV
 
