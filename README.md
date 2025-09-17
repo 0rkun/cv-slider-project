@@ -20,15 +20,15 @@ bun dev
 
 ### CV
 
-![CV ](public/screenshots/cvss2.png)
+![CV ](public/screenshots/cvss2.PNG)
 
 ### CV
 
-![CV ](public/screenshots/cvss3.png)
+![CV ](public/screenshots/cvss3.PNG)
 
 ### CV
 
-![CV ](public/screenshots/cvss4.png)
+![CV ](public/screenshots/cvss4.PNG)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
